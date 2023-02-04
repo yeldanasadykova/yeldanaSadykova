@@ -10,7 +10,7 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=1E90FF)
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=OrangeRed)
-![Header](https://img.shields.io/badge/SeleniumID-090909?style=for-the-badge&logo=selenium&logoColor=71b556)
+![Header](https://img.shields.io/badge/SeleniumIDE-090909?style=for-the-badge&logo=selenium&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=71b556)
 
 

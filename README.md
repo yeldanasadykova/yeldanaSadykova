@@ -12,6 +12,8 @@
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=OrangeRed)
 ![Header](https://img.shields.io/badge/SeleniumIDE-090909?style=for-the-badge&logo=selenium&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=71b556)
+![Header](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 
 
 ### Socials

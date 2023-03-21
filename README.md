@@ -1,6 +1,6 @@
 # Hi there 👩‍💻 I'am junior software tester!
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1K8YyYUeZbMX9CaLW-eLWSzJpBpgo1hxv/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1ETZtGm4714sEI5NPSsw-5JPyeKBlOspc/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)

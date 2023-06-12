@@ -16,6 +16,11 @@
 
 ### Testing Documentation
 - [Test Scenarios](https://trello.com/b/znL1lV3D/test-scenarios-1)
+- [Test Cases](https://github.com/yeldanasadykova/test-cases)
+- [Bug Reporting]
+- [Selenium]
+- [Postman]
+- [SQL]
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeldana-sadykova/)

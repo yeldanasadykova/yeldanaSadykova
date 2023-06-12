@@ -1,4 +1,4 @@
-# Hi there 👩‍💻 I'am junior software tester!
+# Hi there 👩‍💻 I am a junior software tester!
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1ETZtGm4714sEI5NPSsw-5JPyeKBlOspc/view?usp=sharing)
 

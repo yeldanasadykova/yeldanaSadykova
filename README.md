@@ -18,8 +18,7 @@
 - [Test Scenarios](https://github.com/yeldanasadykova/test-scenarios)
 - [Test Cases](https://github.com/yeldanasadykova/test-cases)
 - [Bug Reporting]
-- [Selenium]
-- [Postman]
+- [API Testing]
 - [SQL]
 
 ### Socials

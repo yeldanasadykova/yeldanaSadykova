@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 ### Testing Documentation
-- [Test Scenarios](https://trello.com/b/znL1lV3D/test-scenarios-1)
+- [Test Scenarios](https://github.com/yeldanasadykova/test-scenarios)
 - [Test Cases](https://github.com/yeldanasadykova/test-cases)
 - [Bug Reporting]
 - [Selenium]

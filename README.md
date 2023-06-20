@@ -22,6 +22,23 @@
 - [API Testing]
 - [SQL]
 
+### What's Happening?
+
+🔍 Job: Currently seeking my first job in IT as a Software Tester.
+
+📚 Studying: Enrolled in a comprehensive Software Testing course on Udemy to enhance my skills and knowledge.
+
+🔎 Exploring Testing Techniques: Learning various testing methodologies, test case design, and bug tracking.
+
+🌟 Goal: Securing a position in a dynamic team where I can contribute as a skilled Software Tester.
+
+💬 Ask me about: My experience in software testing, my coursework, or tips for landing your first job in the industry.
+
+🌱 Growing in the Field: Passionate about continuous learning and staying updated with emerging trends in software testing.
+
+⚡ Fun fact: I'm an avid problem-solver and love unraveling mysteries, whether it's finding bugs in software or solving challenging riddles!
+
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeldana-sadykova/)
 

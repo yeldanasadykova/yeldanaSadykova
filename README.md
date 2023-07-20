@@ -13,6 +13,8 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
+![Header](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=34f29)
+
 
 
 ### Testing Documentation

@@ -7,13 +7,14 @@
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=1E90FF)
 ![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4584b6)
 ![Header](https://img.shields.io/badge/SeleniumIDE-090909?style=for-the-badge&logo=selenium&logoColor=71b556)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=#00758F)
+![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#0064a5)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/IntelliJIDEA-090909?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
-![Header](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=34f29)
+![Header](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git&logoColor=#34f29)
+![Header](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=#0db7ed)
 
 
 

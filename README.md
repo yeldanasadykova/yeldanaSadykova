@@ -21,10 +21,10 @@
 ### Testing Documentation
 - [Test Scenarios](https://github.com/yeldanasadykova/test-scenarios)
 - [Test Cases](https://github.com/yeldanasadykova/test-cases)
-- [Bug Reporting]
 - [JPetStore (Final Project at Software Development Academy)](https://docs.google.com/spreadsheets/d/1-HZqr2yoFi0uqMphvWWp1o5bQ1gHj3te/edit?usp=sharing&ouid=103125920830051510741&rtpof=true&sd=true)
-- [API Testing]
 - [SQL](https://github.com/yeldanasadykova/sql)
+- [API Testing]
+- [Docker](https://github.com/yeldanasadykova/my-cv-docker)
 
 ### What's Happening?
 

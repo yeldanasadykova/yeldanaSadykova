@@ -28,19 +28,17 @@
 
 ### What's Happening?
 
-🔍 Job: Currently seeking my first job in IT as a Software Tester.
+🔍 Job: Working on exciting projects at AWebSys.
 
-📚 Studying: Enrolled in a comprehensive Software Testing course on Udemy to enhance my skills and knowledge.
+📚 Studying: I'm in the process of mastering Azure DevOps, exploring its capabilities to enhance our development and testing workflows.
 
-🔎 Exploring Testing Techniques: Learning various testing methodologies, test case design, and bug tracking.
+🔎 Exploring: I'm currently honing my skills in manual and automated testing, ensuring the quality and reliability of our projects.
 
-🌟 Goal: Securing a position in a dynamic team where I can contribute as a skilled Software Tester.
+🌟 Goal: It is not just identify issues but contribute towards building seamless user experiences by advocating for quality at every stage.
 
-💬 Ask me about: My experience in software testing, my coursework, or tips for landing your first job in the industry.
+💬 Ask me about: My experience in testing, my coursework, or tips for landing your first job in the industry.
 
-🌱 Growing in the Field: Passionate about continuous learning and staying updated with emerging trends in software testing.
-
-⚡ Fun fact: I'm an avid problem-solver and love unraveling mysteries, whether it's finding bugs in software or solving challenging riddles!
+⚡ Fun fact: I believe that the best bug reports are like detective stories, where each detail leads to a clearer resolution!
 
 
 ### Socials

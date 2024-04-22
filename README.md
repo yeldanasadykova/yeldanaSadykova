@@ -5,7 +5,6 @@
 ### Language and Tools
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=#e34c26)
 ![Header](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3&logoColor=1E90FF)
-![Header](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=4584b6)
 ![Header](https://img.shields.io/badge/SeleniumIDE-090909?style=for-the-badge&logo=selenium&logoColor=71b556)
 ![Header](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=#0064a5)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)

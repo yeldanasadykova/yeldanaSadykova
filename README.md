@@ -21,8 +21,7 @@
 
 
 ### Testing Documentation
-- [Test Scenarios](https://github.com/yeldanasadykova/test-scenarios)
-- [Test Cases](https://github.com/yeldanasadykova/test-cases)
+- [Test Cases and Scenarios](https://github.com/yeldanasadykova/test-cases-scenarios)
 - [SQL](https://github.com/yeldanasadykova/sql)
 - [API Testing]
 - [Docker](https://github.com/yeldanasadykova/my-cv-docker)

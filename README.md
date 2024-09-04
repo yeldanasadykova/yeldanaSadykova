@@ -42,3 +42,20 @@
 
 ### Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeldana.sadykova@gmail.com)
+
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=yeldanasadykova&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yeldanasadykova&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeldanasadykova&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yeldanasadykova&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yeldanasadykova&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yeldanasadykova&icon=10&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,4 +1,4 @@
-# Hi there 👩‍💻 I am a junior software tester!
+# Hi there 👩‍💻 I am a software tester!
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1Q87oBnOrOLcEeVZiops2xdMHK2kCF4yz/view?usp=sharing)
 
@@ -27,15 +27,13 @@
 
 ### What's Happening?
 
-🔍 Job: Working on exciting projects at AWebSys.
+🔍 Currently Seeking New Opportunities: I am actively seeking new job opportunities where I can bring my expertise in testing and quality assurance to a dynamic team.
 
-📚 Studying: I'm in the process of mastering Azure DevOps, exploring its capabilities to enhance our development and testing workflows.
+📚 Education & Learning: I am currently expanding my skills in automation testing by learning **Playwright** and **Postman**, focusing on how to automate and streamline testing workflows.
 
-🔎 Exploring: I'm currently honing my skills in manual and automated testing, ensuring the quality and reliability of our projects.
+🌟 Professional Goal: My goal is to not just identify issues but to contribute towards building seamless user experiences by advocating for quality at every stage of development.
 
-🌟 Goal: It is not just identify issues but contribute towards building seamless user experiences by advocating for quality at every stage.
-
-💬 Ask me about: My experience in testing, my coursework, or tips for landing your first job in the industry.
+💬 Ask me about: My experience in testing, my course, or tips for landing your first job in the IT industry.
 
 ⚡ Fun fact: I believe that the best bug reports are like detective stories, where each detail leads to a clearer resolution!
 

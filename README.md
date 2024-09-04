@@ -1,6 +1,6 @@
 # Hi there 👩‍💻 I am a software tester!
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1Q87oBnOrOLcEeVZiops2xdMHK2kCF4yz/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/11MXqUuklV1X9KgZEEu-rCvS1AjsvZMec/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=#e34c26)
@@ -20,7 +20,6 @@
 ### Testing Documentation
 - [Test Scenarios](https://github.com/yeldanasadykova/test-scenarios)
 - [Test Cases](https://github.com/yeldanasadykova/test-cases)
-- [JPetStore (Final Project at Software Development Academy)](https://docs.google.com/spreadsheets/d/1-HZqr2yoFi0uqMphvWWp1o5bQ1gHj3te/edit?usp=sharing&ouid=103125920830051510741&rtpof=true&sd=true)
 - [SQL](https://github.com/yeldanasadykova/sql)
 - [API Testing]
 - [Docker](https://github.com/yeldanasadykova/my-cv-docker)

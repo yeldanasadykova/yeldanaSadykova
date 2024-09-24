@@ -1,6 +1,6 @@
 # Hi there 👩‍💻 I am a software tester!
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/11MXqUuklV1X9KgZEEu-rCvS1AjsvZMec/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/189sM71pulcQuI3_kcW5anQl_-2zHpj47/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5&logoColor=#e34c26)

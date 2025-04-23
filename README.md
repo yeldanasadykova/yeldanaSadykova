@@ -23,7 +23,7 @@
 ### Testing Documentation
 - [Test Cases and Scenarios](https://github.com/yeldanasadykova/test-cases-scenarios)
 - [SQL](https://github.com/yeldanasadykova/sql)
-- [API Testing]
+- [API Testing](https://github.com/yeldanasadykova/joke-api-test)
 - [Docker](https://github.com/yeldanasadykova/my-cv-docker)
 
 ### What's Happening?

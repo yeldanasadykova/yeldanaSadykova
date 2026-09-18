@@ -1,4 +1,4 @@
-# Hi there 👩‍💻 I am a software tester!
+# Hi there 👩‍💻 I am a QA Engineer!
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/189sM71pulcQuI3_kcW5anQl_-2zHpj47/view?usp=sharing)
 

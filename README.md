@@ -1,6 +1,6 @@
 # Hi there 👩‍💻 I'm Yeldana, a QA Engineer in Prague
 
-I test streaming and fintech products: almost 3 years on **Prima+**, **Oneplay** and the **FiP** fintech platform, across mobile (Android, iOS/iPadOS), web and TV (Smart TV, HbbTV, Apple TV set-top boxes, Android TV). I write test cases and regression suites, dig into API traffic, and write bug reports a developer can act on straight away.
+I test streaming and fintech products: almost 3 years on **Prima+**, **Oneplay** and the **FiP** fintech platform, across mobile (Android, iOS/iPadOS), web and TV (SmartTV, HbbTV, AppleTV). I write test cases and regression suites, dig into API traffic, and write bug reports a developer can act on straight away.
 
 🌐 **Portfolio:** [cv-site-chi-two.vercel.app](https://cv-site-chi-two.vercel.app/)
 

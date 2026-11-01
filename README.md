@@ -2,8 +2,7 @@
 
 I test streaming and fintech products: almost 3 years on **Prima+**, **Oneplay** and the **FiP** fintech platform, across mobile (Android, iOS/iPadOS), web and TV (Smart TV, HbbTV, Apple TV set-top boxes, Android TV). I write test cases and regression suites, dig into API traffic, and write bug reports a developer can act on straight away.
 
-🌐 **Portfolio:** [cv-site-chi-two.vercel.app](https://cv-site-chi-two.vercel.app/)  
-📄 **CV (PDF):** [Link to my CV](https://drive.google.com/file/d/189sM71pulcQuI3_kcW5anQl_-2zHpj47/view?usp=sharing)
+🌐 **Portfolio:** [cv-site-chi-two.vercel.app](https://cv-site-chi-two.vercel.app/)
 
 ### What I work with
 
